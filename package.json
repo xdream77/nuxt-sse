@@ -1,7 +1,7 @@
 {
   "name": "nuxt-sse",
-  "version": "1.0.0",
-  "description": "My new Nuxt module",
+  "version": "0.1.0",
+  "description": "SSE Module for Nuxt3+",
   "repository": "your-org/nuxt-sse",
   "license": "MIT",
   "type": "module",
